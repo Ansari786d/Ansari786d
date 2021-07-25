@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ansari786d
-- 👀 I’m interested in Machine Learning and Deep Learning 
+- 👀 I’m  Machine Learning and Deep Learning Enthusiast
 - 🌱 I’m currently learning Machine Learning and Deep Learning Using Python
 - 💞️ I’m looking for full time job or internship related to ML and DL
 - 📫 U can reach me :ansarisalman9341@gmail.com 
