@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ansari786d
+- 👋 Hi, I’m Salman Ansari
 - 👀 I’m  Machine Learning and Deep Learning Enthusiast
 - 🌱 I’m currently learning Machine Learning and Deep Learning Using Python
 - 💞️ I’m looking for full time job or internship related to ML and DL
